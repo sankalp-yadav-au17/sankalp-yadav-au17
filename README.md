@@ -18,6 +18,10 @@ Ask me anything <a href="https://github.com/sankalp-yadav-au17/sankalp-yadav-au1
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-yadav-au17&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="Sankalp's top languages">
  </div>
+ 
+ <div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sankalp-yadav-au17&no-frame=true&column=3&row=2" alt="Sankalp's trophys">
+ </div>
 <!--
 **sankalp-yadav-au17/sankalp-yadav-au17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
