@@ -20,8 +20,11 @@ Ask me anything <a href="https://github.com/sankalp-yadav-au17/sankalp-yadav-au1
  </div>
  
  <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sankalp-yadav-au17&no-frame=true&column=3&row=2&bg_color=0,000000,130F40" alt="Sankalp's trophys">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sankalp-yadav-au17&no-frame=true&column=3&row=2" alt="Sankalp's trophys">
  </div>
+ <div aligh="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sankalp's trophys">
+</div>
 <!--
 **sankalp-yadav-au17/sankalp-yadav-au17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
